@@ -1,11 +1,9 @@
-# funciones normal invocada como siempre
- 
-def multiplicacion (a,b):
-    return  (x)
-x = multiplicacion(2,5)
+def elevarcuadrado(num):
+    resultado = num * num
+    return resultado
+x= elevarcuadrado(5)
+print(x)
 
-
-print ("el resultado de la operacion es:", x)
     
 
 
