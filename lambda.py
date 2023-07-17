@@ -13,5 +13,3 @@ def sumar(n1,n2):
 print("la suma es : ", sumar(10,5))
 
 #######
-
-
